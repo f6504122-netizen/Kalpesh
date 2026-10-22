@@ -1,0 +1,6 @@
+{
+  "name": "KevSpace",
+  "description": "A real-time messaging application with live dynamic chats, user profiles, and seamless cloud synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
